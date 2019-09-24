@@ -43,4 +43,4 @@
 * select `New Pull Request`
 
 ### Part 7 - Ensuring project has been submitted
-* Upon submission, your name, and a link to your project should be made available by clicking [here](https://github.com/CodeDifferently/my-first-fork/pulls)
+* Upon submission, your name, and a link to your project should be made available by clicking [here](https://github.com/CodeDifferently/git.my-first-fork/pulls)
